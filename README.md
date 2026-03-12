@@ -12,20 +12,20 @@ Hands-on AWS networking project demonstrating VPC creation, subnet segmentation,
 ![Free Tier](https://img.shields.io/badge/AWS-Free%20Tier-success)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-## Table of Contents
-- Project Overview
-- Architecture Diagram
-- Day 1 — Planning the Environment
-- Day 2 — VPC Creation
-- Day 3 — Subnet Configuration
-- Day 4 — Internet Connectivity
-- Day 5 — Security Group Setup
-- Day 6 — EC2 Deployment
-- Day 7 — RDP Connection
-- Conclusion
-- Future Improvements
+## 📚 Table of Contents
 
-I have already committed the first one. If I want to add this, what commit message should I write?
+- [Project Overview](#-project-overview)
+- [Architecture Diagram](#️-aws-architecture-diagram)
+- [Environment Planning](#️-planning-and-preparing-the-environment)
+- [Creating the VPC](#-creating-the-vpc)
+- [Creating Subnets](#-creating-subnets)
+- [Configuring Internet Connectivity](#-configuring-internet-connectivity)
+- [Security Group Configuration](#-security-group-configuration)
+- [Launching the Windows EC2 Instance](#-launching-the-windows-ec2-instance)
+- [Connecting via Remote Desktop](#️-connecting-to-the-windows-vm-via-rdp)
+- [Conclusion](#-conclusion)
+- [Future Improvements](#-future-improvements)
+  
 # AWS VPC Architecture and Windows EC2 Deployment
 
 This project demonstrates how I designed and deployed a complete AWS networking environment by creating a Virtual Private Cloud (VPC) and successfully launching a Windows EC2 instance.
