@@ -1,6 +1,31 @@
 # aws-vpc-windows-ec2-architecture
 AWS VPC architecture project showcasing subnet design, internet connectivity setup, and Windows EC2 remote access configuration.
 
+Hands-on AWS networking project demonstrating VPC creation, subnet segmentation, internet connectivity, security group configuration, and Windows VM deployment.
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Amazon EC2](https://img.shields.io/badge/Amazon-EC2-yellow?logo=amazonaws)
+![Amazon VPC](https://img.shields.io/badge/Amazon-VPC-blue?logo=amazonaws)
+![Windows Server](https://img.shields.io/badge/OS-Windows%20Server-0078D6?logo=windows)
+![Cloud Architecture](https://img.shields.io/badge/Architecture-Network%20Design-green)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-IaC%20Ready-purple)
+![Free Tier](https://img.shields.io/badge/AWS-Free%20Tier-success)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+## Table of Contents
+- Project Overview
+- Architecture Diagram
+- Day 1 — Planning the Environment
+- Day 2 — VPC Creation
+- Day 3 — Subnet Configuration
+- Day 4 — Internet Connectivity
+- Day 5 — Security Group Setup
+- Day 6 — EC2 Deployment
+- Day 7 — RDP Connection
+- Conclusion
+- Future Improvements
+
+I have already committed the first one. If I want to add this, what commit message should I write?
 # AWS VPC Architecture and Windows EC2 Deployment
 
 This project demonstrates how I designed and deployed a complete AWS networking environment by creating a Virtual Private Cloud (VPC) and successfully launching a Windows EC2 instance.
